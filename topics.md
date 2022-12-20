@@ -335,6 +335,7 @@
 
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+- [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [nicfit/nicfit.py](https://github.com/nicfit/nicfit.py) - Common Python and CookieCutter
 - [nicfit/MishMash](https://github.com/nicfit/MishMash) - Music database, etc.
