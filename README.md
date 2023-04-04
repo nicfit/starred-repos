@@ -47,7 +47,6 @@
 ## JavaScript 
 
 - [alaingilbert/Turntable-API](https://github.com/alaingilbert/Turntable-API) - Allows you to create bots for turntable.fm
-- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 
 ## Jinja 
@@ -179,6 +178,7 @@
 
 ## TypeScript 
 
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## Vue 
