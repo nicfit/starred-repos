@@ -213,7 +213,7 @@
 
 ## linux 
 
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [DavidBuchanan314/dlinject](https://github.com/DavidBuchanan314/dlinject) - Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
 - [mellowcandle/bitwise](https://github.com/mellowcandle/bitwise) - Terminal based bit manipulator in ncurses
@@ -248,7 +248,7 @@
 
 - [nicfit/Mop](https://github.com/nicfit/Mop) - GTK+ ID3 tag editor
 - [nicfit/eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [Logitech/slimserver](https://github.com/Logitech/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
 - [redshodan/unsonic](https://github.com/redshodan/unsonic) - Unsonic, the un-Subsonic music server.
@@ -431,7 +431,7 @@
 
 ## windows 
 
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [timofurrer/colorful](https://github.com/timofurrer/colorful) - Terminal string styling done right, in Python :snake: :tada:
