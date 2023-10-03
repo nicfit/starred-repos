@@ -192,6 +192,7 @@
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [mikelolasagasti/revelation](https://github.com/mikelolasagasti/revelation) - Revelation is a password manager for the GNOME desktop, released under the GNU GPL license. It stores all your accounts and passwords in a single, secure place, and gives you access to it through a us
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 
 ## http 
