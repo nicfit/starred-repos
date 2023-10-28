@@ -15,6 +15,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -130,6 +131,11 @@
 ## compiler 
 
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
+
+## computer-science 
+
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
 ## devops 
 
@@ -316,7 +322,6 @@
 - [orealy/simple-diary](https://github.com/orealy/simple-diary) - Simple diary app using vim and vim's encryption.
 - [CanopyTax/aiohttp-oauth](https://github.com/CanopyTax/aiohttp-oauth) - Oauth middlewear for your aiohttp app.
 - [qntln/aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [boukeversteegh/nebula](https://github.com/boukeversteegh/nebula) - Social music server
 - [briancurtin/deprecation](https://github.com/briancurtin/deprecation) - A library to handle automated deprecations
 - [balthorium/xmpptrace](https://github.com/balthorium/xmpptrace) - xmpp diagnostics and network traffic visualization utility
