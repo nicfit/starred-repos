@@ -55,6 +55,7 @@
 - [security](#security)
 - [shell](#shell)
 - [software](#software)
+- [sqlite](#sqlite)
 - [terminal](#terminal)
 - [testing](#testing)
 - [vim](#vim)
@@ -422,6 +423,10 @@
 ## software 
 
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
+
+## sqlite 
+
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 
 ## terminal 
 
