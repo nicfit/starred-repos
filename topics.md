@@ -222,7 +222,7 @@
 ## json 
 
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
 
 ## linux 
@@ -374,7 +374,7 @@
 - [aio-libs/create-aio-app](https://github.com/aio-libs/create-aio-app) - The boilerplate for aiohttp. Quick setup for your asynchronous web service.
 - [h2non/filetype.py](https://github.com/h2non/filetype.py) - Small, dependency-free, fast Python package to infer binary file types checking the magic numbers signature
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
@@ -393,7 +393,7 @@
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [DavidBuchanan314/dlinject](https://github.com/DavidBuchanan314/dlinject) - Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [timofurrer/colorful](https://github.com/timofurrer/colorful) - Terminal string styling done right, in Python :snake: :tada:
 - [redshodan/unsonic](https://github.com/redshodan/unsonic) - Unsonic, the un-Subsonic music server.
 
