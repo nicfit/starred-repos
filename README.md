@@ -130,7 +130,7 @@
 - [pytest-docker-compose/pytest-docker-compose](https://github.com/pytest-docker-compose/pytest-docker-compose) - Spin up Docker containers during your integration tests automatically!
 - [magmax/python-inquirer](https://github.com/magmax/python-inquirer) - A collection of common interactive command line user interfaces, based on Inquirer.js (https://github.com/SBoudrias/Inquirer.js/)
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [Fatal1ty/logstash-easy](https://github.com/Fatal1ty/logstash-easy) - Very easy to use Logstash logging handler
 - [FriendCode/gittle](https://github.com/FriendCode/gittle) - Pythonic Git for Humans
 - [eddieantonio/sentinel](https://github.com/eddieantonio/sentinel) - Create sentinel and singleton objects in Python
