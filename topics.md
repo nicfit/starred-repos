@@ -286,6 +286,7 @@
 
 ## others 
 
+- [ariel-miculas/cisco-secureclient](https://github.com/ariel-miculas/cisco-secureclient) - Cisco secureclient arch linux installer
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [CommandLeo/scarpet](https://github.com/CommandLeo/scarpet) - A collection of CommandLeo's Scarpet Apps
 - [abersheeran/poetry2setup](https://github.com/abersheeran/poetry2setup) - Convert python-poetry(pyproject.toml) to setup.py.
