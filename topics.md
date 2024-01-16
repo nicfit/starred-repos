@@ -302,7 +302,7 @@
 - [lovasoa/marshmallow_dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
 - [nicfit/TopFM](https://github.com/nicfit/TopFM) - Make last.fm lists and collages
 - [wbond/certvalidator](https://github.com/wbond/certvalidator) - Python library for validating X.509 certificates and paths
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [klen/aioauth-client](https://github.com/klen/aioauth-client) - OAuth client for aiohttp
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
