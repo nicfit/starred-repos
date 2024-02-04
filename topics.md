@@ -252,6 +252,7 @@
 
 ## minecraft 
 
+- [henkelmax/audio-player](https://github.com/henkelmax/audio-player) - Put your own audio files on music discs!
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 
 ## mongodb 
