@@ -248,6 +248,7 @@
 
 ## markdown 
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## minecraft 
@@ -432,6 +433,7 @@
 
 ## terminal 
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
