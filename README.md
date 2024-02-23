@@ -138,7 +138,7 @@
 - [eddieantonio/sentinel](https://github.com/eddieantonio/sentinel) - Create sentinel and singleton objects in Python
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [tooxie/shiva-server](https://github.com/tooxie/shiva-server) - A RESTful API to your music collection
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [aiokitchen/aiomisc](https://github.com/aiokitchen/aiomisc) - aiomisc - miscellaneous utils for asyncio
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
