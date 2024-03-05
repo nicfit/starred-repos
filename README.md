@@ -161,7 +161,7 @@
 - [briancurtin/deprecation](https://github.com/briancurtin/deprecation) - A library to handle automated deprecations
 - [redshodan/unsonic](https://github.com/redshodan/unsonic) - Unsonic, the un-Subsonic music server.
 - [discogs/discogs_client](https://github.com/discogs/discogs_client) - DEPRECATED - Official Python Client for the Discogs API
-- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read audio and music meta data and duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave and AIFF files with python 2 or 3
+- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
 
 ## Rust 
 
