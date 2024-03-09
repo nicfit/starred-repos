@@ -6,7 +6,6 @@
 ## Contents
 
 - [algorithm](#algorithm)
-- [archlinux](#archlinux)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -66,10 +65,6 @@
 ## algorithm 
 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-
-## archlinux 
-
-- [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux (read-only mirror)
 
 ## awesome 
 
@@ -275,7 +270,7 @@
 - [nicfit/eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! :city_sunrise:
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
-- [Logitech/slimserver](https://github.com/Logitech/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
 - [redshodan/unsonic](https://github.com/redshodan/unsonic) - Unsonic, the un-Subsonic music server.
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
 
@@ -349,7 +344,7 @@
 
 ## perl 
 
-- [Logitech/slimserver](https://github.com/Logitech/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
 
 ## postgresql 
 
