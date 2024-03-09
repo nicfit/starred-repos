@@ -84,7 +84,7 @@
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [Logitech/slimserver](https://github.com/Logitech/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
 
 ## Python 
 
