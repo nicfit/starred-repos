@@ -293,6 +293,7 @@
 
 ## others 
 
+- [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 - [ariel-miculas/cisco-secureclient](https://github.com/ariel-miculas/cisco-secureclient) - Cisco secureclient arch linux installer
