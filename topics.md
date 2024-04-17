@@ -182,6 +182,7 @@
 
 ## go 
 
+- [dreamsofcode-io/loop](https://github.com/dreamsofcode-io/loop) - Loop is a utility package for function iterators in Go using the new rangefunc experiment
 - [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -275,7 +276,7 @@
 - [nicfit/eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! :city_sunrise:
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
-- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 - [redshodan/unsonic](https://github.com/redshodan/unsonic) - Unsonic, the un-Subsonic music server.
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
 
@@ -351,7 +352,7 @@
 
 ## perl 
 
-- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 
 ## postgresql 
 
