@@ -34,6 +34,7 @@
 
 ## Go 
 
+- [dreamsofcode-io/loop](https://github.com/dreamsofcode-io/loop) - Loop is a utility package for function iterators in Go using the new rangefunc experiment
 - [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
@@ -86,7 +87,7 @@
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+- [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 
 ## Python 
 
