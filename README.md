@@ -11,6 +11,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Perl](#perl)
@@ -59,6 +60,10 @@
 ## Jinja 
 
 - [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - Copier template for Python projects managed by Poetry.
+
+## Makefile 
+
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 
 ## Markdown 
 
