@@ -294,6 +294,7 @@
 
 ## others 
 
+- [bazko1/habitui](https://github.com/bazko1/habitui) - 
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 - [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
