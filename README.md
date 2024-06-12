@@ -35,6 +35,7 @@
 
 ## Go 
 
+- [bazko1/habitui](https://github.com/bazko1/habitui) - 
 - [dreamsofcode-io/loop](https://github.com/dreamsofcode-io/loop) - Loop is a utility package for function iterators in Go using the new rangefunc experiment
 - [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
