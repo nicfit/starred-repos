@@ -11,6 +11,7 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [blockchain](#blockchain)
+- [bot](#bot)
 - [c](#c)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -111,6 +112,10 @@
 
 - [nicfit/Clique](https://github.com/nicfit/Clique) - Python API for Clique block chains; ID chains and auth chains included.
 
+## bot 
+
+- [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
+
 ## c 
 
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
@@ -189,6 +194,7 @@
 
 ## golang 
 
+- [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -259,6 +265,7 @@
 
 ## minecraft 
 
+- [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [henkelmax/audio-player](https://github.com/henkelmax/audio-player) - Put your own audio files on music discs!
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 
