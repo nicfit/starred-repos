@@ -18,6 +18,7 @@
 - [cli](#cli)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
+- [cryptography](#cryptography)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -148,6 +149,10 @@
 
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+
+## cryptography 
+
+- [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 
 ## devops 
 
