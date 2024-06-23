@@ -49,6 +49,7 @@
 
 ## Java 
 
+- [ItzDerock/simplevoicechat-music](https://github.com/ItzDerock/simplevoicechat-music) - mod that lets you play youtube/soundcloud/etc into simplevoicechat groups.
 - [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 - [henkelmax/audio-player](https://github.com/henkelmax/audio-player) - Put your own audio files on music discs!
 - [balthorium/clique-sdk-java](https://github.com/balthorium/clique-sdk-java) - 
