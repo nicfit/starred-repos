@@ -8,11 +8,11 @@
 - [C](#c)
 - [CSS](#css)
 - [Go](#go)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Makefile](#makefile)
-- [Markdown](#markdown)
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
@@ -47,6 +47,10 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [ItzDerock/simplevoicechat-music](https://github.com/ItzDerock/simplevoicechat-music) - mod that lets you play youtube/soundcloud/etc into simplevoicechat groups.
@@ -68,12 +72,9 @@
 
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 
-## Markdown 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Others 
 
+- [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there...
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [nicfit/Makefile.docker](https://github.com/nicfit/Makefile.docker) - 
