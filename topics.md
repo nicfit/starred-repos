@@ -33,6 +33,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
+- [https](#https)
 - [ios](#ios)
 - [javascript](#javascript)
 - [json](#json)
@@ -228,6 +229,10 @@
 ## http 
 
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+
+## https 
+
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## ios 
 
