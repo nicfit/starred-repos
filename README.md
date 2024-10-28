@@ -167,7 +167,7 @@
 - [bryant/plugdj](https://github.com/bryant/plugdj) - Python wrapper for `plug.dj`'s API.
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [CanopyTax/aiohttp-oauth](https://github.com/CanopyTax/aiohttp-oauth) - Oauth middlewear for your aiohttp app.
-- [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
+- [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - pytest fixture for benchmarking code
 - [boukeversteegh/nebula](https://github.com/boukeversteegh/nebula) - Social music server
 - [clayman083/pytest-postgres](https://github.com/clayman083/pytest-postgres) - pytest support for PostgreSQL in Docker container.
 - [briancurtin/deprecation](https://github.com/briancurtin/deprecation) - A library to handle automated deprecations
