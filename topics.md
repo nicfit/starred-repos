@@ -338,7 +338,7 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [klen/aioauth-client](https://github.com/klen/aioauth-client) - OAuth client for aiohttp
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [balthorium/clique-sdk-java](https://github.com/balthorium/clique-sdk-java) - 
 - [tinyclues/python-crack](https://github.com/tinyclues/python-crack) - CPython extension providing Python binding for cracklib library
 - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
