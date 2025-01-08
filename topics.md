@@ -25,6 +25,7 @@
 - [documentation](#documentation)
 - [emoji](#emoji)
 - [firefox](#firefox)
+- [flask](#flask)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -164,6 +165,7 @@
 ## django 
 
 - [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - library implementing ACME server functionality
+- [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 
 ## docker 
 
@@ -183,6 +185,10 @@
 ## firefox 
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+## flask 
+
+- [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 
 ## git 
 
@@ -224,7 +230,6 @@
 - [mikelolasagasti/revelation](https://github.com/mikelolasagasti/revelation) - Revelation is a password manager for the GNOME desktop, released under the GNU GPL license. It stores all your accounts and passwords in a single, secure place, and gives you access to it through a us
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 
 ## http 
 
