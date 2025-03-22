@@ -318,6 +318,7 @@
 
 ## others 
 
+- [NikitaCartes-archive/MinecraftDeobfuscated-Mojang](https://github.com/NikitaCartes-archive/MinecraftDeobfuscated-Mojang) - Deobfuscated & Decompiled Minecraft source code with Mojang mapping
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [ItzDerock/simplevoicechat-music](https://github.com/ItzDerock/simplevoicechat-music) - mod that lets you play youtube/soundcloud/etc into simplevoicechat groups.
 - [bazko1/habitui](https://github.com/bazko1/habitui) - 
