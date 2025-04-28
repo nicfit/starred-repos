@@ -35,6 +35,8 @@
 
 ## Go 
 
+- [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal
+- [mistakenelf/teacup](https://github.com/mistakenelf/teacup) - A collection of bubbles and utilities for bubbletea applications
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
