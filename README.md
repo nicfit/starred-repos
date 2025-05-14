@@ -192,6 +192,7 @@
 
 ## Shell 
 
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ariel-miculas/cisco-secureclient](https://github.com/ariel-miculas/cisco-secureclient) - Cisco secureclient arch linux installer
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
