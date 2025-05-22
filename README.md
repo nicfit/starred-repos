@@ -35,6 +35,7 @@
 
 ## Go 
 
+- [alexanderbh/bubbleapp](https://github.com/alexanderbh/bubbleapp) - An opinionated App Framework for BubbleTea
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal
 - [mistakenelf/teacup](https://github.com/mistakenelf/teacup) - A collection of bubbles and utilities for bubbletea applications
