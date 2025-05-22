@@ -346,6 +346,7 @@
 
 ## others 
 
+- [alexanderbh/bubbleapp](https://github.com/alexanderbh/bubbleapp) - An opinionated App Framework for BubbleTea
 - [mistakenelf/teacup](https://github.com/mistakenelf/teacup) - A collection of bubbles and utilities for bubbletea applications
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [NikitaCartes-archive/MinecraftDeobfuscated-Mojang](https://github.com/NikitaCartes-archive/MinecraftDeobfuscated-Mojang) - Deobfuscated & Decompiled Minecraft source code with Mojang mapping
