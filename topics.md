@@ -346,6 +346,7 @@
 
 ## others 
 
+- [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
 - [alexanderbh/bubbleapp](https://github.com/alexanderbh/bubbleapp) - An opinionated App Framework for BubbleTea
 - [mistakenelf/teacup](https://github.com/mistakenelf/teacup) - A collection of bubbles and utilities for bubbletea applications
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
