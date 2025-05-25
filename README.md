@@ -72,6 +72,7 @@
 
 ## JavaScript 
 
+- [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
 - [alaingilbert/Turntable-API](https://github.com/alaingilbert/Turntable-API) - Allows you to create bots for turntable.fm
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 
