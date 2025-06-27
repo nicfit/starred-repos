@@ -36,6 +36,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [https](#https)
+- [information-gathering](#information-gathering)
 - [ios](#ios)
 - [javascript](#javascript)
 - [json](#json)
@@ -261,6 +262,10 @@
 ## https 
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+## information-gathering 
+
+- [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 
 ## ios 
 
