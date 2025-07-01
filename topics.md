@@ -352,6 +352,7 @@
 
 ## others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [EndingCredits/litematic-viewer](https://github.com/EndingCredits/litematic-viewer) - Viewer for Litematica schematics in-browser for when you cba to fire up Minecraft. Based on Deepslate renderer.
 - [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
 - [alexanderbh/bubbleapp](https://github.com/alexanderbh/bubbleapp) - An opinionated App Framework for BubbleTea
