@@ -228,6 +228,7 @@
 
 ## golang 
 
+- [leanghok120/podden](https://github.com/leanghok120/podden) - a minimal tui music player inspired by the ipod classic
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
