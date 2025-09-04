@@ -323,6 +323,7 @@
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [henkelmax/audio-player](https://github.com/henkelmax/audio-player) - Put your own audio files on music discs!
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
+- [CommandLeo/scarpet](https://github.com/CommandLeo/scarpet) - A collection of my Scarpet scripts
 
 ## mongodb 
 
@@ -372,7 +373,6 @@
 - [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 - [ariel-miculas/cisco-secureclient](https://github.com/ariel-miculas/cisco-secureclient) - Cisco secureclient arch linux installer
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-- [CommandLeo/scarpet](https://github.com/CommandLeo/scarpet) - A collection of CommandLeo's Scarpet Apps
 - [abersheeran/poetry2setup](https://github.com/abersheeran/poetry2setup) - Convert python-poetry(pyproject.toml) to setup.py.
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
 - [vlaci/openconnect-sso](https://github.com/vlaci/openconnect-sso) - Wrapper script for OpenConnect supporting Azure AD (SAMLv2) authentication to Cisco SSL-VPNs
