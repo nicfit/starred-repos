@@ -118,7 +118,7 @@
 
 ## Python 
 
-- [CommandLeo/scarpet](https://github.com/CommandLeo/scarpet) - A collection of CommandLeo's Scarpet Apps
+- [CommandLeo/scarpet](https://github.com/CommandLeo/scarpet) - A collection of my Scarpet scripts
 - [abersheeran/poetry2setup](https://github.com/abersheeran/poetry2setup) - Convert python-poetry(pyproject.toml) to setup.py.
 - [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - library implementing ACME server functionality
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
