@@ -35,6 +35,7 @@
 
 ## Go 
 
+- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [alexanderbh/bubbleapp](https://github.com/alexanderbh/bubbleapp) - An opinionated App Framework for BubbleTea
 - [leanghok120/podden](https://github.com/leanghok120/podden) - a minimal tui music player inspired by the ipod classic
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
