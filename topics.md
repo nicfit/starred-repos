@@ -179,7 +179,7 @@
 
 ## django 
 
-- [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - library implementing ACME server functionality
+- [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - ACME Proxy enhancing your existing Certificate Authority Infrastructure
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 
 ## docker 
