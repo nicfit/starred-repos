@@ -120,7 +120,7 @@
 
 - [CommandLeo/scarpet](https://github.com/CommandLeo/scarpet) - A collection of my Scarpet scripts
 - [abersheeran/poetry2setup](https://github.com/abersheeran/poetry2setup) - Convert python-poetry(pyproject.toml) to setup.py.
-- [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - library implementing ACME server functionality
+- [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - ACME Proxy enhancing your existing Certificate Authority Infrastructure
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [vlaci/openconnect-sso](https://github.com/vlaci/openconnect-sso) - Wrapper script for OpenConnect supporting Azure AD (SAMLv2) authentication to Cisco SSL-VPNs
