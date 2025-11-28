@@ -65,6 +65,7 @@
 
 ## Java 
 
+- [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [ItzDerock/simplevoicechat-music](https://github.com/ItzDerock/simplevoicechat-music) - mod that lets you play youtube/soundcloud/etc into simplevoicechat groups.
