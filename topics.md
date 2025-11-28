@@ -40,6 +40,7 @@
 - [https](#https)
 - [information-gathering](#information-gathering)
 - [ios](#ios)
+- [javafx](#javafx)
 - [javascript](#javascript)
 - [json](#json)
 - [learning](#learning)
@@ -291,6 +292,10 @@
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
+## javafx 
+
+- [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
+
 ## javascript 
 
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -340,6 +345,7 @@
 
 ## minecraft 
 
+- [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft
 - [henkelmax/audio-player](https://github.com/henkelmax/audio-player) - Put your own audio files on music discs!
