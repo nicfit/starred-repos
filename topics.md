@@ -71,6 +71,7 @@
 - [sqlite](#sqlite)
 - [terminal](#terminal)
 - [testing](#testing)
+- [tui](#tui)
 - [vim](#vim)
 - [vue](#vue)
 - [windows](#windows)
@@ -563,6 +564,15 @@
 
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
+
+## tui 
+
+- [leanghok120/podden](https://github.com/leanghok120/podden) - a minimal tui music player inspired by the ipod classic
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## vim 
 
