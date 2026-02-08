@@ -386,6 +386,7 @@
 
 ## others 
 
+- [squeeglii/SimpleVoiceChat-Radio](https://github.com/squeeglii/SimpleVoiceChat-Radio) - A server-side mod for Minecraft (1.20.1+) adding a radio block capable of streaming mp3 radio streams with integration for Simple Voice Chat, written for Fabric  & Quilt
 - [alexanderbh/bubbleapp](https://github.com/alexanderbh/bubbleapp) - An opinionated App Framework for BubbleTea
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [EndingCredits/litematic-viewer](https://github.com/EndingCredits/litematic-viewer) - Viewer for Litematica schematics in-browser for when you cba to fire up Minecraft. Based on Deepslate renderer.
