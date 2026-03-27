@@ -22,6 +22,7 @@
 - [computer-science](#computer-science)
 - [cryptography](#cryptography)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -189,6 +190,10 @@
 ## devops 
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## distributed-systems 
+
+- [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 
 ## django 
 
