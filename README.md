@@ -8,11 +8,11 @@
 - [C](#c)
 - [CSS](#css)
 - [Go](#go)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
@@ -59,10 +59,6 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [squeeglii/SimpleVoiceChat-Radio](https://github.com/squeeglii/SimpleVoiceChat-Radio) - A server-side mod for Minecraft (1.20.1+) adding a radio block capable of streaming mp3 radio streams with integration for Simple Voice Chat, written for Fabric  & Quilt
@@ -89,6 +85,10 @@
 ## Makefile 
 
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
+
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Others 
 
