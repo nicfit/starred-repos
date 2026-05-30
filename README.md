@@ -11,8 +11,8 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Nix](#nix)
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
@@ -82,13 +82,13 @@
 
 - [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - Copier template for Python projects managed by Poetry.
 
-## Makefile 
-
-- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
-
 ## Markdown 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
+## Nix 
+
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 
 ## Others 
 
