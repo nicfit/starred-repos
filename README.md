@@ -76,6 +76,7 @@
 - [EndingCredits/litematic-viewer](https://github.com/EndingCredits/litematic-viewer) - Viewer for Litematica schematics in-browser for when you cba to fire up Minecraft. Based on Deepslate renderer.
 - [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
 - [alaingilbert/Turntable-API](https://github.com/alaingilbert/Turntable-API) - Allows you to create bots for turntable.fm
+- [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 
 ## Jinja 
@@ -98,7 +99,6 @@
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [nicfit/Makefile.docker](https://github.com/nicfit/Makefile.docker) - 
-- [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [plugcommunity/documentation](https://github.com/plugcommunity/documentation) - Unofficial Community Documentation
