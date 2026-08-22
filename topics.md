@@ -424,7 +424,6 @@
 - [klen/aioauth-client](https://github.com/klen/aioauth-client) - OAuth client for aiohttp
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [balthorium/clique-sdk-java](https://github.com/balthorium/clique-sdk-java) - 
-- [tinyclues/python-crack](https://github.com/tinyclues/python-crack) - CPython extension providing Python binding for cracklib library
 - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [pytest-docker-compose/pytest-docker-compose](https://github.com/pytest-docker-compose/pytest-docker-compose) - Spin up Docker containers during your integration tests automatically!
