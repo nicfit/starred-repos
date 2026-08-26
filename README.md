@@ -142,7 +142,6 @@
 - [nicfit/Mop](https://github.com/nicfit/Mop) - GTK+ ID3 tag editor
 - [nicfit/eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3
 - [wbond/certvalidator](https://github.com/wbond/certvalidator) - Python library for validating X.509 certificates and paths
-- [jedie/poetry-publish](https://github.com/jedie/poetry-publish) - Helper to build and upload a project that used poetry to PyPi, with prechecks
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [klen/aioauth-client](https://github.com/klen/aioauth-client) - OAuth client for aiohttp
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
