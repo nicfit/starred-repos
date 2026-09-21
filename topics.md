@@ -362,7 +362,7 @@
 
 ## mongodb 
 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 
 ## monitoring 
 
@@ -380,7 +380,7 @@
 
 ## mysql 
 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 
 ## nodejs 
 
@@ -462,7 +462,7 @@
 
 ## postgresql 
 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [clayman083/pytest-postgres](https://github.com/clayman083/pytest-postgres) - pytest support for PostgreSQL in Docker container.
 
@@ -495,7 +495,7 @@
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [qwj/python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
 - [timofurrer/colorful](https://github.com/timofurrer/colorful) - Terminal string styling done right, in Python :snake: :tada:
@@ -549,7 +549,7 @@
 
 ## sqlite 
 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 
 ## terminal 
 
