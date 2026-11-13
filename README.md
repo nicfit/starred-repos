@@ -35,6 +35,7 @@
 
 ## Go 
 
+- [lrstanley/bloom](https://github.com/lrstanley/bloom) - 🌸 Bubbletea compositor -- layout, animations, effects, simplified.
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [alexanderbh/bubbleapp](https://github.com/alexanderbh/bubbleapp) - An opinionated App Framework for BubbleTea
 - [leanghok120/podden](https://github.com/leanghok120/podden) - a minimal tui music player inspired by the ipod classic
