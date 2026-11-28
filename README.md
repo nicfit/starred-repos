@@ -62,6 +62,7 @@
 
 ## Java 
 
+- [nybikyt/SimpleVoiceRadio](https://github.com/nybikyt/SimpleVoiceRadio) - Plugin that adds a radio block that lets players communicate over distances
 - [squeeglii/SimpleVoiceChat-Radio](https://github.com/squeeglii/SimpleVoiceChat-Radio) - A server-side mod for Minecraft (1.20.1+) adding a radio block capable of streaming mp3 radio streams with integration for Simple Voice Chat, written for Fabric  & Quilt
 - [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
